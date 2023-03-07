@@ -1,0 +1,16 @@
+C:\Users\Guy\Desktop\gamedev\r\VRMsaker\VRPatcher\bin\Debug\netstandard2.0\VRPatcher.deps.json
+C:\Users\Guy\Desktop\gamedev\r\VRMsaker\VRPatcher\bin\Debug\netstandard2.0\VRPatcher.dll
+C:\Users\Guy\Desktop\gamedev\r\VRMsaker\VRPatcher\bin\Debug\netstandard2.0\VRPatcher.pdb
+C:\Users\Guy\Desktop\gamedev\r\VRMsaker\VRPatcher\obj\Debug\netstandard2.0\VRPatcher.csproj.AssemblyReference.cache
+C:\Users\Guy\Desktop\gamedev\r\VRMsaker\VRPatcher\obj\Debug\netstandard2.0\VRPatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guy\Desktop\gamedev\r\VRMsaker\VRPatcher\obj\Debug\netstandard2.0\VRPatcher.csproj.CoreCompileInputs.cache
+C:\Users\Guy\Desktop\gamedev\r\VRMsaker\VRPatcher\obj\Debug\netstandard2.0\VRPatcher.dll
+C:\Users\Guy\Desktop\gamedev\r\VRMsaker\VRPatcher\obj\Debug\netstandard2.0\VRPatcher.pdb
+C:\Users\Guy\Desktop\gamedev\r\VRMaker\VRPatcher\bin\Debug\netstandard2.0\VRPatcher.deps.json
+C:\Users\Guy\Desktop\gamedev\r\VRMaker\VRPatcher\bin\Debug\netstandard2.0\VRPatcher.dll
+C:\Users\Guy\Desktop\gamedev\r\VRMaker\VRPatcher\bin\Debug\netstandard2.0\VRPatcher.pdb
+C:\Users\Guy\Desktop\gamedev\r\VRMaker\VRPatcher\obj\Debug\netstandard2.0\VRPatcher.csproj.AssemblyReference.cache
+C:\Users\Guy\Desktop\gamedev\r\VRMaker\VRPatcher\obj\Debug\netstandard2.0\VRPatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guy\Desktop\gamedev\r\VRMaker\VRPatcher\obj\Debug\netstandard2.0\VRPatcher.csproj.CoreCompileInputs.cache
+C:\Users\Guy\Desktop\gamedev\r\VRMaker\VRPatcher\obj\Debug\netstandard2.0\VRPatcher.dll
+C:\Users\Guy\Desktop\gamedev\r\VRMaker\VRPatcher\obj\Debug\netstandard2.0\VRPatcher.pdb

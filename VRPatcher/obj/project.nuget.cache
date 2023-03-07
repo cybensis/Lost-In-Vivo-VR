@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "e236MD9Rl2Q3w4a038B4M1FHror2KAzAdo8mwU6kPMRs10GYmUnDiPzCY/y+Bv2NbiQuXGmFUk46/e01StlCwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Guy\\Desktop\\gamedev\\r\\VRMaker\\VRPatcher\\VRPatcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guy\\.nuget\\packages\\assetstools.net\\2.0.10\\assetstools.net.2.0.10.nupkg.sha512",
+    "C:\\Users\\Guy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Guy\\.nuget\\packages\\mono.cecil\\0.11.3\\mono.cecil.0.11.3.nupkg.sha512",
+    "C:\\Users\\Guy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
